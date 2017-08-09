@@ -12,11 +12,8 @@
   "dependencies": {
     "async": "^2.5.0",
     "cheerio": "^1.0.0-rc.2",
-<<<<<<< HEAD
     "json2xls": "^0.1.2",
-=======
     "exceljs": "^0.5.1",
->>>>>>> 13f257a63e8d98502016bce023d9cb70f65941d2
     "lodash": "^4.17.4",
     "superagent": "^3.5.2",
     "superagent-charset": "^1.2.0"
