@@ -12,10 +12,10 @@
   "dependencies": {
     "async": "^2.5.0",
     "cheerio": "^1.0.0-rc.2",
+    "exceljs": "^1.10.0",
     "json2xls": "^0.1.2",
-    "exceljs": "^0.5.1",
-    "lodash": "^4.17.4",
-    "superagent": "^3.5.2",
+    "lodash": "^4.17.11",
+    "superagent": "^5.0.5",
     "superagent-charset": "^1.2.0"
   }
 }
